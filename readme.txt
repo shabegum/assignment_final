@@ -1,3 +1,7 @@
+
+
+THIS IS READE ME FILE
+
 1) Open Visual studio code
 2) Ensure that you have installed the following extension.
 	a) Mysql management tool
